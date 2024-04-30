@@ -7,7 +7,7 @@ name = "pycc"
 dynamic = ["version"]
 readme = "README.md"
 authors = [
-    {name = "T Daniel Crawford, email = "crawdad@vt.edu}
+    {name = "T Daniel Crawford, email = "crawdad@vt.edu"}
 ]
 license = { text = "BSD 3-Clause" }
 
